@@ -1,0 +1,10 @@
+9
+box
+photo
+axis
+dish
+church
+leaf
+knife
+study
+play
